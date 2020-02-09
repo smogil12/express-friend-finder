@@ -8,9 +8,9 @@ var friends = [
     scores: [5, 1, 2, 3, 1, 2, 5, 1, 1, 1]
   },
   {
-    name:
+    name: "Christopher Moltisanti",
+    photo:
       "https://m.media-amazon.com/images/M/MV5BODU4YTNiMmUtMTM5Mi00MjU0LWJhOGQtNWQ0MzNjZTZmMDJiXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg",
-    photo: "fill in code",
     scores: [2, 5, 4, 1, 2, 3, 3, 2, 3, 3]
   },
   {
