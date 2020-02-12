@@ -1,4 +1,9 @@
 body {
   text-align: center;
   font-size: 50px;
+  background-color: #bfc9ce !important;
+}
+
+h1 {
+  text-align: center;
 }
