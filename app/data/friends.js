@@ -4,31 +4,31 @@ var friends = [
   {
     name: "Tony Soprano",
     photo:
-      "https://m.media-amazon.com/images/M/MV5BMTkxODg1MTk5MF5BMl5BanBnXkFtZTcwMDQwNTU4Mg@@._V1_SY1000_CR0,0,661,1000_AL_.jpg",
+      "https://pbs.twimg.com/profile_images/686675254756950016/KMg-vmpp_400x400.jpg",
     scores: [5, 1, 1, 1, 1, 5, 2, 3, 3, 5]
   },
   {
     name: "Christopher Moltisanti",
     photo:
-      "https://m.media-amazon.com/images/M/MV5BODU4YTNiMmUtMTM5Mi00MjU0LWJhOGQtNWQ0MzNjZTZmMDJiXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg",
+      "https://vignette.wikia.nocookie.net/sopranos/images/f/ff/Christopher_Moltisanti.jpg/revision/latest/scale-to-width-down/340?cb=20160922133720",
     scores: [2, 2, 5, 2, 2, 3, 2, 2, 4, 2]
   },
   {
     name: "Paulie Walnuts Gualtieri",
     photo:
-      "https://m.media-amazon.com/images/M/MV5BM2E2OTRjOTYtMDAwNi00MmYyLTk3N2MtYjJjODM4NzVmMGFlXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg",
+      "https://i.pinimg.com/564x/1b/66/66/1b666616afe6f0e30937084de920ce92.jpg",
     scores: [3, 1, 4, 3, 5, 4, 4, 4, 4, 2]
   },
   {
     name: "Silvio Dante",
     photo:
-      "https://m.media-amazon.com/images/M/MV5BMTc3OTIxNDQ3NV5BMl5BanBnXkFtZTgwMDg0NDIzMjE@._V1_.jpg",
+      "https://vignette.wikia.nocookie.net/villains/images/e/e4/Mozzarella2.jpg/revision/latest/top-crop/width/360/height/450?cb=20190509164317",
     scores: [3, 1, 2, 5, 3, 2, 5, 5, 1, 2]
   },
   {
     name: "Salvatore Bonpensiero",
     photo:
-      "https://m.media-amazon.com/images/M/MV5BMjEzNTA3MDE0N15BMl5BanBnXkFtZTgwNzU0NDIzMjE@._V1_.jpg",
+      "https://vignette.wikia.nocookie.net/sopranos/images/4/43/Vincent_Pastore.png/revision/latest/scale-to-width-down/340?cb=20150510060905",
     scores: [2, 5, 3, 4, 3, 2, 2, 1, 1, 2]
   }
 ];
