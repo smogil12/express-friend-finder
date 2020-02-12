@@ -165,7 +165,7 @@
         Submit
       </button>
     </div>
-    <div id="bestFriendModal" class="modal fade" role="dialog">
+    <div id="bestFriendModal" class="modal" role="dialog">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -227,6 +227,7 @@
 
 			
 			$.post(currentURL + "/api/friends", newUser, function(data) {
+        console.log(data)
 				$("#bestFriend").text(data.name);
 				$("#bestFriendPhoto").attr("src", data.photo);
 				$("#bestFriendModal").modal("toggle");
