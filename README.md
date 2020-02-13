@@ -12,7 +12,7 @@ This is a full stack web application that uses Node.js, jQuery, AJAX, Bootstrap,
 - Twitter Bootstrap
 - Express
 
-NPM Packages Installed:
+### NPM Packages Installed:
 
 - Express
 - Body-Parser
